@@ -12,12 +12,23 @@ using System.Threading.Tasks;
  * Discription: This program demostrates GitHub and version control
  * best practices. We also explore Unit Testing
  * 
- * Version: 0.2 - Added HelloWorldToConsole Method
+ * Version: 0.3 - updated comments for driver class Program
  */
 namespace COMP123S2016_Ckawakam_300821245_A1_resubmit
 {
+    /**
+     * This is the driver class for our program
+     * 
+     * @class Program
+     */
     class Program
     {
+        /**
+         * Main Method for class Program
+         * 
+         * @param {string[]} args
+         * @constractor Main
+         */
         static void Main(string[] args)
         {
             // call the hello world to console method
