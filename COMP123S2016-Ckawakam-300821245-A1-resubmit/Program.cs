@@ -12,7 +12,7 @@ using System.Threading.Tasks;
  * Discription: This program demostrates GitHub and version control
  * best practices. We also explore Unit Testing
  * 
- * Version: 0.1 - Initial version
+ * Version: 0.2 - Added HelloWorldToConsole Method
  */
 namespace COMP123S2016_Ckawakam_300821245_A1_resubmit
 {
@@ -20,7 +20,20 @@ namespace COMP123S2016_Ckawakam_300821245_A1_resubmit
     {
         static void Main(string[] args)
         {
+            // call the hello world to console method
+            HelloWorldToConsole();
+        }
 
+        /**
+        * @discription: This is my HelloWorldMethod
+        * @method: HelloWorldToConsole
+        * @return: {string} helloworldString
+        */
+        public static string HelloWorldToConsole()
+        {
+            string helloworldString = "Hello,World!";
+            Console.WriteLine(helloworldString);
+            return helloworldString;
         }
     }
 }
