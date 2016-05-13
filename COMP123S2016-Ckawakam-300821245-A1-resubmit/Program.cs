@@ -31,6 +31,7 @@ namespace COMP123S2016_Ckawakam_300821245_A1_resubmit
         */
         public static string HelloWorldToConsole()
         {
+            //initialize variables
             string helloworldString = "Hello,World!";
             Console.WriteLine(helloworldString);
             return helloworldString;
