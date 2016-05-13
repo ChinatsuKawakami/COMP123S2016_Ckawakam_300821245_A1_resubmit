@@ -12,7 +12,7 @@ using System.Threading.Tasks;
  * Discription: This program demostrates GitHub and version control
  * best practices. We also explore Unit Testing
  * 
- * Version: 0.3 - updated comments for driver class Program
+ * Version: 0.4 - Added Test Project
  */
 namespace COMP123S2016_Ckawakam_300821245_A1_resubmit
 {
@@ -21,7 +21,7 @@ namespace COMP123S2016_Ckawakam_300821245_A1_resubmit
      * 
      * @class Program
      */
-    class Program
+    public class Program
     {
         /**
          * Main Method for class Program
