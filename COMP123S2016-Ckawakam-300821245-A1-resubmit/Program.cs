@@ -20,6 +20,7 @@ namespace COMP123S2016_Ckawakam_300821245_A1_resubmit
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
