@@ -12,7 +12,7 @@ using System.Threading.Tasks;
  * Discription: This program demostrates GitHub and version control
  * best practices. We also explore Unit Testing
  * 
- * Version: 0.4 - Added Test Project
+ * Version: 0.5 - Added successful test for HelloWorldToConsole Method
  */
 namespace COMP123S2016_Ckawakam_300821245_A1_resubmit
 {
